@@ -15,6 +15,7 @@ Based on Empty Theme WordPress Theme, (C) 2021 WordPress.org
 Workshop Blocks is distributed under the terms of the GNU GPL.
 */
 
+
 .wp-site-blocks {
     max-width: var(--wp--custom--site--max-width);
     border: solid var(--wp--preset--color--black) 1px;
@@ -23,12 +24,12 @@ Workshop Blocks is distributed under the terms of the GNU GPL.
     padding: 30px;
 }
 
-header {
+header, footer {
     background-color: var(--wp--preset--color--black);
     color: var(--wp--preset--color--white);
     padding: 20px;
 }
 
-header a {
+header a, footer a {
     color: var(--wp--preset--color--white);
 }

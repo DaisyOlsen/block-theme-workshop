@@ -1,17 +1,55 @@
 # Welcome to the Build your own Block Theme workshop
 
-### LocalWP Instructions:
+**Step 1**
+* Setup Development Environment
+* File Managment & Navigation
 
-1. Install the Local App from https://localwp.com/
-2. Download the blockstheme-workshop.zip file from this repository and import the file into Local
-3. Open admin for the new site
-4. Navigate to the workshop-blocks theme directory for the site using your preferred file manager or IDE
+**Step 2**
+Create and Active Barebones Theme - Absolute minimum.
 
-### Fresh WordPress Install Instructions:
-If you prefer not to use LocalWP for creating a local WordPress environment please create a WordPress 5.7.x environment of your choice.
+**Step 3a**
+* theme.json Settings Overview
+* Enable Appearance Tools
+* Add Color Palette Presets
+* Add Duotone Presets
+* Add Gradient Presets
+* Typography
+  * Fonts
+  * Sizes  
 
-1. Install and Activate the Gutenberg Plugin from the plugin directory.
-2. Install and Activate the workshop-blocks theme found in this repository.
-3. Navigate to the workshop-blocks theme directory for the site using your preferred file manager or IDE
+**Step 3b**
+* theme.json Styles Overview
 
-_Note:_ This repo may be updated with incremental branches as the workshop progresses to allow attendees to "catch up" with the progress of hands-on elements or for future review.
+**Step 4**
+* Create a Header Template Part in Site Editor
+
+**Step 5**
+* Create a Footer Template Part in Site Editor
+
+**Step 6**
+* Create Index Template
+
+**Step 7**
+* Create Single Post Template
+* Create Single Page Template
+* Create Archive Template
+* Create Search Results Template
+* Create 404 Template
+
+**Step 8**
+* Create Custom Page Template
+* Additional Template Options (Template Hierarchy)
+
+**Step 9**
+* Declare/Register Template Parts in theme.json
+* Declare/Register Custom Templates in theme.json
+
+**Step 10**
+* Export Theme
+* Install Theme
+* Clear Customizations
+
+**Take it Further**
+* Patterns from the Directory
+* Patterns in the theme
+* Style Variations/Style Switcher

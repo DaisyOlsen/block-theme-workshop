@@ -1,8 +1,8 @@
-# Step One
+# Step Three
 
-## Recommended:
-* Install LocalWP (Or yo)
-* Setup a new WordPress Site
+30 minutes
+
+## Theme Supports and Presets in theme.json
 * 
 
 

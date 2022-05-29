@@ -1,8 +1,8 @@
-# Step One
+# Step Four
 
-## Recommended:
-* Install LocalWP (Or yo)
-* Setup a new WordPress Site
+30 minutes
+
+## Global Styles in the Site Editor
 * 
 
 

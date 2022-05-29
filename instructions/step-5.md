@@ -1,8 +1,8 @@
-# Step One
+# Step Five
 
-## Recommended:
-* Install LocalWP (Or yo)
-* Setup a new WordPress Site
+30 minutes
+
+## Index Template in Site Editor
 * 
 
 

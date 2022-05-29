@@ -1,5 +1,7 @@
 # Step One - Local WordPress Environment
 
+Time: 15 Minutes
+
 ### LocalWP Instructions:
 
 1. Install the Local App from https://localwp.com/

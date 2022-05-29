@@ -1,8 +1,8 @@
-# Step One
+# Step Six
 
-## Recommended:
-* Install LocalWP (Or yo)
-* Setup a new WordPress Site
+30 minutes
+
+## Assitional Templates in Site Editor
 * 
 
 

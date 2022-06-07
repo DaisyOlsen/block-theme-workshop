@@ -34,3 +34,6 @@ We'll add more to this file in a future step but this is the starting point.
 This theme is now active but we have not yet added any way for the content to show on the front end.
 
 You should see a message of "Empty Index" on the site's front end. The back end will work as expected.
+
+[<< Go back to Step 2 ](./step-2/README.md)
+[Go to Step 3 >>](./step-3/README.md)

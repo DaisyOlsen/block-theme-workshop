@@ -4,7 +4,7 @@
 * style.css
 * theme.json
 * templates (directory)
-* templates/index.thml
+* templates/index.html
 
 
 ## Templates
